@@ -457,3 +457,6 @@ END //
 DELIMITER ;
 
 CALL sprelatoriotempo();
+/*
+ Procedimentos Armazenados, são um conjunto de comandos SQL que são pré-compilados e armazenados no banco de dados.
+ Eles funcionam como sub-rotinas ou programas que você pode chamar pelo nome para executar uma tarefa específica. */
